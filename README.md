@@ -31,5 +31,8 @@ Create a Java Maven project with IDE and import source code and resources.
 Add the above bytecode-javacv reference to the Maven POM.XML file.
 Build project and run UICamera.java
 Happy hacking.
-Result
+
+
+
+
 
