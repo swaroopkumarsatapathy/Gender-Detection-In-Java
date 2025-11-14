@@ -1,6 +1,9 @@
 Gender Detection Using Deep Neural Network (DNN) with JavaCV Library
 
 
+![Alt Text](https://github.com/swaroopkumarsatapathy/Gender-Detection-In-Java/blob/main/logo.png)
+
+
 This example; captures the faces on the input image and makes the gender prediction. In doing so, he uses the trained caffe model as the classifier on the DNN package, which means "Deep Neural Network" of JavaCV, the Java wrapper of OpenCV. The trained model is under the src/main/resources/ directory.
 
 What is JavaCV?
